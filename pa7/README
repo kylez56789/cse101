@@ -1,0 +1,16 @@
+Kyle Zhang
+kmzhang
+CSE101
+pa7
+May 30, 2020
+README
+
+Files Submitted:
+
+List.cpp - source code for List ADT
+ListTest.cpp - List Client source code
+List.h - header for List ADT
+Shuffle.cpp - Source code for Shuffle program
+Makefile - creates executables ListTest and Shuffle
+README - Table of Contents
+

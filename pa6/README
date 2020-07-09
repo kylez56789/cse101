@@ -1,0 +1,16 @@
+Kyle Zhang
+kmzhang
+CSE101
+pa6
+May 20, 2020
+README
+
+Files Submitted:
+
+Dictionary.c - source code for Dictionary ADT
+DictionaryTest.c - Dictionary Client source code
+Dictionary.h - header for Dictionary ADT
+Order.c - Source code for Order program
+Makefile - creates executables DictionaryTest and Lex
+README - Table of Contents
+

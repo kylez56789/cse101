@@ -1,0 +1,16 @@
+Kyle Zhang
+kmzhang
+CSE101
+pa1
+March 31, 2019
+README
+Description: Table of Contents for files submitted
+
+
+Files Submitted:
+List.h - header file for List ADT
+List.c - source code for List ADT
+ListClient.c - test client for List ADT
+Lex.c - source code for Lex program that sorts input file's lines lexicographically
+Makefile - creates executable Lex and ListClient programs
+README - Description: Table of Contents for files submitted
